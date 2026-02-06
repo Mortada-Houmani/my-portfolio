@@ -59,7 +59,7 @@ function HomePage() {
           </div>
           <div className="panel p-4">
             <p className="text-xs uppercase tracking-[0.18em] text-stone-500">Learning</p>
-            <p className="mt-2 text-sm text-stone-200">Testing, CI, and deployment automation</p>
+            <p className="mt-2 text-sm text-stone-200">FullStack, Machine Learning</p>
           </div>
         </div>
       </motion.aside>
